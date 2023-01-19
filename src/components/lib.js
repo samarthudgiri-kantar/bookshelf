@@ -74,15 +74,15 @@ const Input = styled.input({borderRadius: '3px'}, inputStyles)
 const Textarea = styled.textarea(inputStyles)
 
 const Dialog = styled(ReachDialog)({
-  maxWidth: '450px',
-  borderRadius: '3px',
-  paddingBottom: '3.5em',
-  boxShadow: '0 10px 30px -5px rgba(0, 0, 0, 0.2)',
-  margin: '20vh auto',
-  [mq.small]: {
-    width: '100%',
-    margin: '10vh auto',
-  },
+  // maxWidth: '450px',
+  // borderRadius: '3px',
+  // paddingBottom: '3.5em',
+  // boxShadow: '0 10px 30px -5px rgba(0, 0, 0, 0.2)',
+  // margin: '20vh auto',
+  // [mq.small]: {
+  //   width: '100%',
+  //   margin: '10vh auto',
+  // },
 })
 
 const FormGroup = styled.div({
